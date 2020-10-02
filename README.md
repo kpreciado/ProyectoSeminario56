@@ -1,2 +1,3 @@
-# ProyectoSeminario56
-Proyecto Node.js y Mongo DB
+# Universidad Politécnica Salesiana
+## Seminario Profesional
+Material del Seminario Profesional sobre Node.js + MongoDB
